@@ -1,4 +1,4 @@
-*Base:** 
+*Base:*
 1. Programa que te avise en una fecha dada alguna cosa que tengas que hacer (días o horas de anticipación)
 2. Tiene que tener notificaciones.
 3. Tener una base de datos sql
